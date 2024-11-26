@@ -1125,6 +1125,7 @@ dependencies = [
 [[package]]
 name = "const_str_to_pubkey"
 version = "0.1.1"
+source = "git+https://github.com/valentinmadrid/const_str_to_pubkey#0aa542af398266dff41e3a0317c8ca79bfb0bc52"
 dependencies = [
  "solana-program",
 ]
